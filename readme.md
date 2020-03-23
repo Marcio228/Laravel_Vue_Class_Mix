@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshot1.png" width="350" title="hover text">
+  <img src="Screenshot1.png" width="1000" title="hover text">
 </p>
 ## How to use
 
