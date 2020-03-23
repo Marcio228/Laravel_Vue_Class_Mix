@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Screenshot1.png" width="350" title="hover text">
+</p>
 ## How to use
 
 - Clone the repository with __git clone__
